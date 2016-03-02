@@ -52,5 +52,13 @@ public class DestroyOffscreen : MonoBehaviour {
 		if (DestroyCallback != null) {
 			DestroyCallback();
 		}
+
 	}
 }
+
+
+
+
+
+
+
